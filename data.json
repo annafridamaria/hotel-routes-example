@@ -1,0 +1,61 @@
+[
+    {
+      "name": "Frejs hotell",
+      "city": "Stockholm",
+      "price": 2,
+      "facilities": {
+          "wifi": true,
+          "breakfast": true,
+          "balcony": false
+      }
+    }, {
+      "name": "Hobo Hotel",
+      "city": "Stockholm",
+      "price": 2,
+      "facilities": {
+          "wifi": true,
+          "breakfast": false,
+          "balcony": true
+      }
+    },
+    {
+      "name": "Grand Budapest Hotel",
+      "city": "Zubrowka",
+      "price": 3,
+      "facilities": {
+          "wifi": false,
+          "breakfast": true,
+          "balcony": true
+      }
+    },
+    {
+      "name": "Hotel Dubrovnik Palace",
+      "city": "Dubrovnik",
+      "price": 3,
+      "facilities": {
+          "wifi": true,
+          "breakfast": true,
+          "balcony": true
+      }
+    },
+    {
+      "name": "Hotel Titanic",
+      "city": "Berlin",
+      "price": 3,
+      "facilities": {
+          "wifi": true,
+          "breakfast": true,
+          "balcony": false
+      }
+    },
+    {
+      "name": "Kims karaoke",
+      "city": "Berlin",
+      "price": 1,
+      "facilities": {
+          "wifi": false,
+          "breakfast": true,
+          "balcony": false
+      }
+    }
+]
